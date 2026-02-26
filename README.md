@@ -6,8 +6,7 @@ Chasm: The Rift PC game resource collection.
 - [Chasm: The Rift Archive](https://www.chasm3d.com/)
 
 ## Patches
-### DOSBox
-#### runtime error 200
+### DOSBox runtime error 200
 - get [Chasm: The Rift Patch 3298](https://www.chasm3d.com/files/patches/csmtcpip.zip)
 - use an hex editor to modify offset `0x14030` from `f7 f3` to `90 90`
 - run `dosbox fix.exe`
