@@ -19,13 +19,6 @@ Chasm: The Rift PC game resource collection.
 - [Chasm-Reverse Panzerchasm](https://github.com/Panzerschrek/Chasm-Reverse)
 - [OpenChasm](https://github.com/alexey-lysiuk/OpenChasm)
 
-## Modding
-- [The Shadow Zone: Chasm Modding Toolkit Package](https://discord.com/channels/768103789411434586/1374842906002718803)
-- [The Shadow Zone: OpenSesame](https://discord.com/channels/768103789411434586/1374929171263918080)
-- [glcar3o](https://github.com/joneqdaniel/glcar3o/wiki)
-- [Autodesk Animator](https://github.com/AnimatorPro)
-- [Noesis .3O/.CAR 3D model viewer/converter](https://richwhitehouse.com/index.php?content=inc_stream.php)
-
 ## Installation
 - get [Chasm: The Rift Portable Staging](https://www.moddb.com/games/chasm-the-rift/downloads/chasm-portable-staging) and unpack it to `.`
 - move the bin/cue image in `Chasm\ Portable\ Staging/Chasm/music/` to `.`
@@ -42,6 +35,13 @@ exit
 - run `dosbox fix.exe`
 - get [Chasm: The Rift Music Loop Fix](https://www.moddb.com/games/chasm-the-rift/downloads/chasm-music-loop) and unpack to `CHASM`
 - get [Chasm: The Rift Windows](https://steamdb.info/sub/736338/) or [Chasm: The Rift Windows Demo](https://steamdb.info/sub/766094/) and copy the `csm.tar` to `CHASM`
+
+## Modding
+- [The Shadow Zone: Chasm Modding Toolkit Package](https://discord.com/channels/768103789411434586/1374842906002718803)
+- [The Shadow Zone: OpenSesame](https://discord.com/channels/768103789411434586/1374929171263918080)
+- [glcar3o](https://github.com/joneqdaniel/glcar3o/wiki)
+- [Autodesk Animator](https://github.com/AnimatorPro)
+- [Noesis .3O/.CAR 3D model viewer/converter](https://richwhitehouse.com/index.php?content=inc_stream.php)
 
 ## Reverse Engineering
 - [Peganza Pascal Analyzer](https://www.peganza.com/)
