@@ -3,6 +3,14 @@ Chasm: The Rift PC game resource collection.
 
 ## Official Releases
 - [Chasm: The Rift](https://www.mobygames.com/game/2691/chasm-the-rift/)
+- [Chasm: The Rift Archive](https://www.chasm3d.com/)
+
+## Patches
+### DOSBox
+#### runtime error 200
+- get [Chasm: The Rift Patch 3298](https://www.chasm3d.com/files/patches/csmtcpip.zip)
+- use an hex editor to modify offset `0x14030` from `f7 f3` to `90 90`
+- run `dosbox fix.exe`
 
 ## Ports
 - [Chasm-Reverse Panzerchasm](https://github.com/Panzerschrek/Chasm-Reverse)
@@ -17,7 +25,6 @@ Chasm: The Rift PC game resource collection.
   - [Chasm Modding Toolkit Package](https://discord.com/channels/768103789411434586/1374842906002718803)
 
 ## Modding
-- [Chasm: The Rift Archive](https://www.chasm3d.com/)
 - [The Shadow Zone Invite](https://discord.gg/f85Cz4FaXP/)
 - [The Shadow Zone](https://discord.com/channels/768103789411434586/1374778669612007527)
   - [OpenSesame](https://discord.com/channels/768103789411434586/1374929171263918080)
