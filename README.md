@@ -5,11 +5,20 @@ Chasm: The Rift PC game resource collection.
 - [Chasm: The Rift](https://www.mobygames.com/game/2691/chasm-the-rift/)
 - [Chasm: The Rift Archive](https://www.chasm3d.com/)
 
-## Patches
-- DOSBox runtime error 200
-  - get [Chasm: The Rift Patch 3298](https://www.chasm3d.com/files/patches/csmtcpip.zip)
-  - use an hex editor to modify offset `0x14030` from `f7 f3` to `90 90`
-  - run `dosbox fix.exe`
+## Installation
+- get [Chasm: The Rift Portable Staging](https://www.moddb.com/games/chasm-the-rift/downloads/chasm-portable-staging) and unpack it.
+- move the bin/cue image in `Chasm\ Portable\ Staging/Chasm/music/` to .
+- run dosbox
+```bat
+mount c <CWD>
+C:
+imgmount d -t cdrom chasm.cue
+dossetup.exe
+exit
+```
+- get [Chasm: The Rift Patch 3298](https://www.chasm3d.com/files/patches/csmtcpip.zip) and unpack to `CHASM`
+- use an hex editor to modify PS10.EXE at offset `0x14030` from `f7 f3` to `90 90`
+- run `dosbox fix.exe`
 
 ## Ports
 - [Chasm-Reverse Panzerchasm](https://github.com/Panzerschrek/Chasm-Reverse)
