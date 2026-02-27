@@ -39,7 +39,7 @@ exit
 - get [Chasm: The Rift Music Loop Fix](https://www.moddb.com/games/chasm-the-rift/downloads/chasm-music-loop) and unpack to `CHASM`
 ### Optional
 - get [Chasm: The Rift Remastered for Windows](https://steamdb.info/sub/736338/) or [Chasm: The Rift Remastered Demo for Windows](https://steamdb.info/sub/766094/) and copy the `csm.bin` to `CHASM/csm.tar`
-- see [DOSBOX Staging wiki Game Issueshttps://github.com/dosbox-staging/dosbox-staging/wiki/Game-issues#chasm-the-rift for another explanation
+- see [DOSBOX Staging wiki Game Issues](https://github.com/dosbox-staging/dosbox-staging/wiki/Game-issues#chasm-the-rift) for another explanation
 
 ## Modding
 - [The Shadow Zone: Chasm Modding Toolkit Package](https://discord.com/channels/768103789411434586/1374842906002718803)
