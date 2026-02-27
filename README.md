@@ -14,6 +14,7 @@ Chasm: The Rift PC game resource collection.
 ## Releases
 - [Chasm: The Rift Portable Staging including bin/cue image](https://www.moddb.com/games/chasm-the-rift/downloads/chasm-portable-staging)
 - [Chasm: The Rift Patch 3298](https://www.chasm3d.com/files/patches/csmtcpip.zip)
+- [Chasm: The Rift Patch 1.05 with DOSBox P10fix](https://image.dosgamesarchive.com/games/chasm105.zip)
 - [Chasm: The Rift Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3128742113)
 - [Chasm: The Rift - 3OVIEW.EXE DOS model viewer](https://www.chasm3d.com/files/dump/CDEMOf.zip)
 - [Chasm: The Rift - FLAC OST music](https://www.chasm3d.com/files/music/flac/)
@@ -33,8 +34,7 @@ dossetup.exe
 exit
 ```
 - get [Chasm: The Rift Patch 3298](https://www.chasm3d.com/files/patches/csmtcpip.zip) and unpack to `CHASM`
-- use an hex editor to modify `PS10.EXE` at offset `0x14030` from `f7 f3` to `90 90`
-- run `dosbox fix.exe`
+- get [Chasm: The Rift Patch 1.05 with DOSBOX P10fix](https://image.dosgamesarchive.com/games/chasm105.zip) and unpack `P10fix.zip` to `CHASM`
 - get [Chasm: The Rift Music Loop Fix](https://www.moddb.com/games/chasm-the-rift/downloads/chasm-music-loop) and unpack to `CHASM`
 - get [Chasm: The Rift Windows](https://steamdb.info/sub/736338/) or [Chasm: The Rift Windows Demo](https://steamdb.info/sub/766094/) and copy the `csm.tar` to `CHASM`
 
