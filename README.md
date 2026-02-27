@@ -38,9 +38,9 @@ exit
 - get [Chasm: The Rift Patch 1.05 with DOSBox P10fix](https://image.dosgamesarchive.com/games/chasm105.zip) and unpack `P10fix.zip` to `CHASM`
 - get [Chasm: The Rift Music Loop Fix](https://www.moddb.com/games/chasm-the-rift/downloads/chasm-music-loop) and unpack to `CHASM`
 - Optional
-  - get [Chasm: The Rift Remastered for Windows](https://steamdb.info/sub/736338/)
-    - copy the `csm.bin` to `CHASM/csm.tar`
   - get [Chasm: The Rift Remastered Demo for Windows](https://steamdb.info/sub/766094/)
+    - copy the `csm.bin` to `CHASM/csm.tar`
+  - get [Chasm: The Rift Remastered for Windows](https://steamdb.info/sub/736338/)
     - copy the `csm.bin` to `CHASM/csm.tar`
   - see [DOSBOX Staging wiki Game Issues](https://github.com/dosbox-staging/dosbox-staging/wiki/Game-issues#chasm-the-rift) for another explanation
 
