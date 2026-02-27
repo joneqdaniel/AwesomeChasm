@@ -95,7 +95,8 @@ struct entry
 };
 };
 ```
-### [Post Apocalyptic Petra](https://bad-sector.itch.io/post-apocalyptic-petra)
+### [Post Apocalyptic Petra](https://codeberg.org/badsector/PetraEngine)
+
 ## Similiar C++ Games
 
 ### [Perilous Warp](https://crystice.com/perilous-warp/)
