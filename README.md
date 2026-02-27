@@ -28,17 +28,18 @@ Chasm: The Rift PC game resource collection.
   - replace `FILE "CHASM.BIN"` with `FILE "chasm.bin"` in `Chasm\ Portable\ Staging/Chasm/music/Chasm.cue` and copy to `chasm.cue`
   - copy `Chasm\ Portable\ Staging/Chasm/music/chasm.bin` to `chasm.bin`
   - install and run [DOSBox Staging](https://www.dosbox-staging.org/)
-```bat
-mount c <absolute cwd>
-C:
-imgmount d -t cdrom <absolute cwd>/chasm.cue
-dossetup.exe
-exit
-```
+    ```bat
+    mount c <absolute cwd>
+    C:
+    imgmount d -t cdrom <absolute cwd>/chasm.cue
+    dossetup.exe
+    exit
+    ```
   - get [Chasm: The Rift Patch 3298](https://www.chasm3d.com/files/patches/csmtcpip.zip) and unpack to `CHASM`
   - get [Chasm: The Rift Patch 1.05 with DOSBox P10fix](https://image.dosgamesarchive.com/games/chasm105.zip) and unpack `P10fix.zip` to `CHASM`
   - get [Chasm: The Rift Music Loop Fix](https://www.moddb.com/games/chasm-the-rift/downloads/chasm-music-loop) and unpack to `CHASM`
   - see [DOSBOX Staging wiki Game Issues](https://github.com/dosbox-staging/dosbox-staging/wiki/Game-issues#chasm-the-rift) for another explanation
+
 - Windows Remastered Support
   - get [Chasm: The Rift Remastered Demo for Windows](https://steamdb.info/sub/766094/)
     - copy the `csm.bin` to `CHASM/csm.tar`
