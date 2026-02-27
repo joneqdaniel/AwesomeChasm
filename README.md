@@ -48,6 +48,10 @@ Chasm: The Rift PC game resource collection.
   - get [Chasm: The Rift Remastered for Windows](https://steamdb.info/sub/736338/)
     - copy the `csm.bin` to `CHASM/csm.tar`
 
+## Related C++ Games
+
+### [AtmosFear Engine](https://www.mobygames.com/group/5156/3d-engine-atmosfear/)
+
 ## Modding
 - [The Shadow Zone: Chasm Modding Toolkit Package](https://discord.com/channels/768103789411434586/1374842906002718803)
 - [The Shadow Zone: OpenSesame](https://discord.com/channels/768103789411434586/1374929171263918080)
@@ -66,10 +70,6 @@ Chasm: The Rift PC game resource collection.
 - [Hachoir is a Python library to view and edit a binary stream field by field](https://github.com/vstinner/hachoir)
 - [Kaitai Struct: declarative language to generate binary data parsers](https://github.com/kaitai-io/kaitai_struct)
 - [0xeb/TurboPascal: TP7P5FIX](https://github.com/0xeb/TurboPascal)
-
-## Related C++ Games
-
-### [AtmosFear Engine](https://www.mobygames.com/group/5156/3d-engine-atmosfear/)
 
 ## Similiar Pascal Games
 
