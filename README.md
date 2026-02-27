@@ -24,12 +24,13 @@ Chasm: The Rift PC game resource collection.
 
 ## Installation
 - get [Chasm: The Rift Portable Staging](https://www.moddb.com/games/chasm-the-rift/downloads/chasm-portable-staging) and unpack it to `.`
-- move the bin/cue image in `Chasm\ Portable\ Staging/Chasm/music/` to `.`
+- replace `FILE "CHASM.BIN"` with "FILE "chasm.bin" in `Chasm\ Portable\ Staging/Chasm/music/Chasm.cue` and copy to `chasm.cue`
+- copy `Chasm\ Portable\ Staging/Chasm/music/chasm.bin` to `chasm.bin`
 - run dosbox
 ```bat
-mount c <CWD>
+mount c <absolute cwd>
 C:
-imgmount d -t cdrom chasm.cue
+imgmount d -t cdrom <absolute cwd>/chasm.cue
 dossetup.exe
 exit
 ```
