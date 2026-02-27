@@ -95,6 +95,7 @@ struct entry
 };
 };
 ```
+### [Post Apocalyptic Petra](https://bad-sector.itch.io/post-apocalyptic-petra)
 ## Similiar C++ Games
 
 ### [Perilous Warp](https://crystice.com/perilous-warp/)
