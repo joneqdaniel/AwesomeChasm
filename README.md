@@ -36,7 +36,7 @@ exit
 - get [Chasm: The Rift Patch 3298](https://www.chasm3d.com/files/patches/csmtcpip.zip) and unpack to `CHASM`
 - get [Chasm: The Rift Patch 1.05 with DOSBox P10fix](https://image.dosgamesarchive.com/games/chasm105.zip) and unpack `P10fix.zip` to `CHASM`
 - get [Chasm: The Rift Music Loop Fix](https://www.moddb.com/games/chasm-the-rift/downloads/chasm-music-loop) and unpack to `CHASM`
-- get [Chasm: The Rift Windows](https://steamdb.info/sub/736338/) or [Chasm: The Rift Windows Demo](https://steamdb.info/sub/766094/) and copy the `csm.bin` to `CHASM/csm.tar`
+- get [Chasm: The Rift Remastered for Windows](https://steamdb.info/sub/736338/) or [Chasm: The Rift Remastered Demo for Windows](https://steamdb.info/sub/766094/) and copy the `csm.bin` to `CHASM/csm.tar`
 
 ## Modding
 - [The Shadow Zone: Chasm Modding Toolkit Package](https://discord.com/channels/768103789411434586/1374842906002718803)
