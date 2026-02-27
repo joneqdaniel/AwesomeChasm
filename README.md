@@ -9,6 +9,7 @@ Chasm: The Rift PC game resource collection.
 - [Chasm: The Rift at Moby Games](https://www.mobygames.com/game/2691/chasm-the-rift/)
 
 ## Inactive/Archived
+- [Chasm: The Rift Archive - Legacy Website](https://legacy.chasm3d.com/)
 - [Chasm: The Rift - Legacy Website](https://legacy.chasmaction.com/)
 - [Chasm: The Rift - Website Recreation by Effektus](https://web.archive.org/web/20251022090715/http://chasm.atspace.eu/)
 
