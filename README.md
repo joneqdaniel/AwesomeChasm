@@ -67,6 +67,10 @@ Chasm: The Rift PC game resource collection.
 - [Kaitai Struct: declarative language to generate binary data parsers](https://github.com/kaitai-io/kaitai_struct)
 - [0xeb/TurboPascal: TP7P5FIX](https://github.com/0xeb/TurboPascal)
 
+## Related C++ Games
+
+### [AtmosFear Engine](https://www.mobygames.com/group/5156/3d-engine-atmosfear/)
+
 ## Similiar Pascal Games
 
 ### [HROT](https://en.wikipedia.org/wiki/Hrot)
@@ -93,5 +97,4 @@ struct entry
 ```
 ## Similiar C++ Games
 
-### [Vivisector: Beast Within](https://www.mobygames.com/game/21823/vivisector-beast-within/)
 ### [Perilous Warp](https://crystice.com/perilous-warp/)
