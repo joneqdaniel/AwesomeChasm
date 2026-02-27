@@ -7,7 +7,9 @@ Chasm: The Rift PC game resource collection.
 - [The Shadow Zone](https://discord.com/channels/768103789411434586/1374778669612007527)
 - [moddb - Chasm: The Rift](https://www.moddb.com/games/chasm-the-rift)
 - [Chasm: The Rift at Moby Games](https://www.mobygames.com/game/2691/chasm-the-rift/)
-- [Archived Chasm: The Rift - Website Recreation by Effektus](https://web.archive.org/web/20251022090715/http://chasm.atspace.eu/)
+
+## Inactive/Archived
+- [Chasm: The Rift - Website Recreation by Effektus](https://web.archive.org/web/20251022090715/http://chasm.atspace.eu/)
 
 ## Releases
 - [Chasm: The Rift Portable Staging including bin/cue image](https://www.moddb.com/games/chasm-the-rift/downloads/chasm-portable-staging)
@@ -81,4 +83,5 @@ struct entry
 ```
 ## Similiar C++ Games
 
+### [Vivisector: Beast Within](https://www.mobygames.com/game/21823/vivisector-beast-within/)
 ### [Perilous Warp](https://crystice.com/perilous-warp/)
