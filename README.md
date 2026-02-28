@@ -1,4 +1,4 @@
-# AwesomeChasm
+# Awesome Chasm
 Chasm: The Rift PC game resource collection.
 
 ## Links
